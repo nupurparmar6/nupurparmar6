@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## :star2: About Me 
 
 - :mortar_board: I’m a third year student at Netaji Subhas University of Technology, Delhi, doing my Bachelors in Electronics and Communication Engineering. Technology fascinates me :space_invader:
-- :calendar: I shall be working with Expedia Group, this summer, as an Associate Software Development Engineer intern :airplane:
+- I am working with Expedia Group as a Software Development Engineer intern :airplane:
 - ### My skills include:
   :computer: Programming Languages:
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
