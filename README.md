@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
   ![Expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
   
 ## :star2: My Stats
