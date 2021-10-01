@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - I’m a final year student at Netaji Subhas University of Technology, Delhi, pursuing Bachelors in Electronics and Communication Engineering:mortar_board: 
 - Technology fascinates me (can't wait to enter the tech domain!) :space_invader:
-- I recently worked with Expedia Group as a Software Development Engineer intern :airplane:
+- My last role was a Software Development Engineer intern at Expedia Group :airplane:
 
 ## My skills include:
   ### :computer: Programming Languages:  
